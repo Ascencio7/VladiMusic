@@ -97,5 +97,17 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Imagenes\adelante.png" />
+    <Content Include="Imagenes\auriculares.png" />
+    <Content Include="Imagenes\barajar.png" />
+    <Content Include="Imagenes\carpeta-de-musica.png" />
+    <Content Include="Imagenes\hacia-atras.png" />
+    <Content Include="Imagenes\repetible.png" />
+    <Content Include="Imagenes\reproductor-de-video.png" />
+    <Content Include="Imagenes\rotonda.png" />
+    <Content Include="Imagenes\sonido.png" />
+    <Content Include="Imagenes\Vladimir ascencio.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
